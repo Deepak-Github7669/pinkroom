@@ -1,0 +1,12 @@
+.bookbutton:hover{
+ background-color: pink;
+ border-radius: 1px;
+ border-style: solid;
+ border-color: white;
+ border-radius: 10px;
+}
+.bookbutton{
+ border-radius: 10px;
+ border-color: white;
+ border-style: solid;
+}

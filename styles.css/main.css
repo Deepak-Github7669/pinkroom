@@ -1,0 +1,31 @@
+.main{
+ display: grid;
+ grid-template-columns: 460px 1fr;
+ column-gap: 15px;
+ margin-bottom: 50px;
+}
+.mainn{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 10px;
+}
+.booking{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+}
+.mainn-images{
+ width: 100%;
+}
+.mainn-title{
+ margin-top: 5px;
+ border-left: 3px;
+ border-left-style: solid;
+ border-left-color: black;
+ padding-left: 10px;
+ border-top-left-radius: 2px;
+ border-bottom-left-radius: 2px;
+}
+.bookbuttondiv{
+ margin-top: 5px;
+}
